@@ -1,0 +1,21 @@
+{
+  "name": "zodiac-theme",
+  "displayName": "zodiac",
+  "description": "sleek dark mode theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zodiac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zodiac-color-theme.json"
+      }
+    ]
+  }
+}
