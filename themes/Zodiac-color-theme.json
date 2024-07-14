@@ -1,7 +1,76 @@
 {
 	"name": "Zodiac",
+	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
-		"editor.background": "#263238",
+		// -- Base Colors
+		"foreground": "#988cc5",
+		"focusBorder": "#261d8c",
+        "widget.border": "#574070",
+		"widget.shadow": "#3a2552",
+		"selection.background": "#6c5ed1",
+		"descriptionForeground": "#58419e",
+		"errorForeground": "#1b0207",
+
+		// -- Buttons
+        "button.background": "#2a174b67",
+		"button.foreground": "#e7d4ff",
+
+		// -- Dropdown 
+        "dropdown.background": "#100326",
+		"dropdown.foreground": "#e7d4ff",
+        "dropdown.border": "#574968",
+
+		// -- Inputs
+        "input.background": "#100326",
+		"input.border": "#3d3252",
+		"input.foreground": "#ddcfee",
+		"input.placeholderForeground": "#e5d6f7",
+		"inputOption.activeBackground": "#160730",
+		"inputOption.activeBorder": "#d6bcf5be",
+		"inputValidation.errorBackground": "#61101d",
+		"inputValidation.errorForeground": "#ffe9e9",
+		"inputValidation.errorBorder": "#831729",
+
+		// -- Badges
+		"badge.background": "#1a0935",
+		"badge.foreground": "#493d5c",
+
+	    // -- Progress Bar
+		"progressBar.background": "#ad7eff",
+        
+		// -- Notifications 
+
+		// -- Lists and trees 
+       
+		// -- Activity Bar
+		"activityBar.background": "#080114",
+		"activityBar.foreground": "#7d659e",
+		"activityBar.dropBorder": "#612d6bee",
+		"activityBar.border": "#100424",
+
+
+		// -- Terminal (Panel & Text)
+
+		// -- Tabs
+
+		// -- Breadcrumbs
+
+		// -- Activity Bar
+         
+		// -- Side Bar
+        "sideBar.background": "#080114",
+		"sideBar.foreground": "#b8b0b0",
+		"sideBar.border": "#101521",
+		// -- Status Bar
+
+		// -- Title Bar
+         
+	
+		// -- Buttons
+
+		// -- Inputs 
+		"editor.background": "#080114",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
