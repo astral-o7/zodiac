@@ -129,7 +129,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#2dd7ff"
+				"foreground": "#57c8df"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#A2C2FF"
+				"foreground": "#c267ff"
 			}
 		},
 		{
@@ -253,7 +253,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#2dd7ff"
+				"foreground": "#415bee"
 			}
 		},
 		{
@@ -269,7 +269,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#7FC4E6"
+				"foreground": "#3b9ee0"
 			}
 		},
 		{
