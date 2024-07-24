@@ -1,4 +1,8 @@
-# 👁️ Zodiac 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad37f1c-9a12-4c53-9ed8-a44f2da005b2" alt="Custom image"/>
+</p>
+
+# Zodiac 
 Zodiac is a [Visual Studio Code theme](https://code.visualstudio.com/) configured for a smooth, accessible coding experience; all while being stylish in the process. Each color is designed to increase readabilty, making sure programmers are comfortable during those midnight coding sessions.
 
 # 📷 Images
