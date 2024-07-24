@@ -1,14 +1,19 @@
 {
   "name": "zodiac-theme",
-  "displayName": "zodiac",
+  "displayName": "vscode-zodiac",
   "description": "sleek dark mode theme for vscode",
   "version": "0.0.1",
+  "publisher": "kashhopkins",
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astral-o7/zodiac"
+  },
   "contributes": {
     "themes": [
       {
