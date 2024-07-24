@@ -8,7 +8,7 @@ Zodiac is a [Visual Studio Code theme](https://code.visualstudio.com/) configure
 # 📷 Images
 ![image](https://github.com/user-attachments/assets/d47d0c35-feef-49d9-a0bf-798d0f28f6ea)
 ![image](https://github.com/user-attachments/assets/b1651538-875d-4c5e-b831-4fc242328bd3)
-
+ (Font : IosevkaTerm Nerd Font)
 # ⬇️ How to Install
 - Run Visual Studio Code
 - Navigate to the Extensions Menu
