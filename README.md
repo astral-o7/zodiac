@@ -12,7 +12,7 @@ Zodiac is a [Visual Studio Code theme](https://code.visualstudio.com/) configure
 # ⬇️ How to Install
 - Run Visual Studio Code
 - Navigate to the Extensions Menu
-- Search for "zodiac"
+- Search for "vscode-zodiac"
 - Install it
 - Reload the editor
 - Select the theme using the color theme button from the settings or menu bar
