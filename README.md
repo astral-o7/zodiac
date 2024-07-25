@@ -13,7 +13,7 @@
 # Features
 - Aesthetically pleasing, hand-picked syntax highlighting.
 - Cohesive UI color design for easy navigation.
-- Searching is cohesive and quick.
+- Searching is comfortable and quick.
 
 # Installation
 - Run Visual Studio Code
