@@ -3,7 +3,8 @@
   "displayName": "vscode-zodiac",
   "description": "sleek dark mode theme for vscode",
   "version": "0.0.1",
-  "publisher": "kashhopkins",
+  "publisher": "astral-o7",
+  "icon": "images/Zodiac_Logo.png",
   "engines": {
     "vscode": "^1.91.0"
   },
